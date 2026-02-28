@@ -1,0 +1,994 @@
+[
+  {
+    "code": "drtsplnprasadNLSAAL0001",
+    "fields": [
+      "Dr T S P L N Prasad",
+      "from A V College of Arts, Science &Commerce"
+    ],
+    "holder": "Dr T S P L N Prasad"
+  },
+  {
+    "code": "drtsudhakarNLSAAL0002",
+    "fields": [
+      "Dr T Sudhakar",
+      "from AV College PG Centre"
+    ],
+    "holder": "Dr T Sudhakar"
+  },
+  {
+    "code": "tvijayalakshmiNLSAAL0003",
+    "fields": [
+      "T Vijaya Lakshmi",
+      "from AV College of Arts, Science & Commerce"
+    ],
+    "holder": "T Vijaya Lakshmi"
+  },
+  {
+    "code": "drbraveendrababuNLSAAL0004",
+    "fields": [
+      "Dr. B. Raveendra Babu",
+      "from B.V. Raju Institute of Technology"
+    ],
+    "holder": "Dr. B. Raveendra Babu"
+  },
+  {
+    "code": "drjmadhavanNLSAAL0005",
+    "fields": [
+      "Dr J Madhavan",
+      "from Bhoj Reddy Engineering College for Women"
+    ],
+    "holder": "Dr J Madhavan"
+  },
+  {
+    "code": "drmvinodNLSAAL0006",
+    "fields": [
+      "Dr M Vinod",
+      "from Bhoj Reddy Engineering College for Women"
+    ],
+    "holder": "Dr M Vinod"
+  },
+  {
+    "code": "seshubhavanimallampatiNLSAAL0007",
+    "fields": [
+      "Seshu Bhavani Mallampati",
+      "from Bhoj Reddy Engineering College for Women"
+    ],
+    "holder": "Seshu Bhavani Mallampati"
+  },
+  {
+    "code": "drsashakiranmaiNLSAAL0008",
+    "fields": [
+      "Dr S Asha Kiranmai ",
+      "from Bhoj Reddy Engineering College for Women "
+    ],
+    "holder": "Dr S Asha Kiranmai "
+  },
+  {
+    "code": "drmsandhyaraniNLSAAL0009",
+    "fields": [
+      "Dr M Sandhya Rani",
+      "from Bhoj Reddy Engineerinhg College for Women"
+    ],
+    "holder": "Dr M Sandhya Rani"
+  },
+  {
+    "code": "stirmalreddyNLSAAL0010",
+    "fields": [
+      "S Tirmal Reddy",
+      "from Blossum "
+    ],
+    "holder": "S Tirmal Reddy"
+  },
+  {
+    "code": "drpravikumarNLSAAL0011",
+    "fields": [
+      "Dr. P. Ravi Kumar",
+      "from CMR College of Engineering & Technology"
+    ],
+    "holder": "Dr. P. Ravi Kumar"
+  },
+  {
+    "code": "drmradhakrishnareddyNLSAAL0012",
+    "fields": [
+      "Dr M. Radhakrishna Reddy",
+      "from CMR Institute of Technology"
+    ],
+    "holder": "Dr M. Radhakrishna Reddy"
+  },
+  {
+    "code": "drjaishripandhariwankhedeNLSAAL0013",
+    "fields": [
+      "Dr. Jaishri Pandhari Wankhede",
+      "from CMR Institute of Technology"
+    ],
+    "holder": "Dr. Jaishri Pandhari Wankhede"
+  },
+  {
+    "code": "drkniranjanreddyNLSAAL0014",
+    "fields": [
+      "Dr K Niranjan Reddy",
+      "from CMR Institute of Technology"
+    ],
+    "holder": "Dr K Niranjan Reddy"
+  },
+  {
+    "code": "drgangasanuvalaNLSAAL0015",
+    "fields": [
+      "Dr Ganga Sanuvala",
+      "from CMR Institute of Technology"
+    ],
+    "holder": "Dr Ganga Sanuvala"
+  },
+  {
+    "code": "drbsatyanaryanaNLSAAL0016",
+    "fields": [
+      "Dr.B.Satyanaryana",
+      "from CMR Institute of Technology"
+    ],
+    "holder": "Dr.B.Satyanaryana"
+  },
+  {
+    "code": "ppavankumarNLSAAL0017",
+    "fields": [
+      "P Pavan Kumar ",
+      "from CMR Institute of Technology "
+    ],
+    "holder": "P Pavan Kumar "
+  },
+  {
+    "code": "drkumbalapradeepreddyNLSAAL0018",
+    "fields": [
+      "Dr Kumbala Pradeep Reddy",
+      "from CMR Institute of Technology, Medchal. Hyderabad"
+    ],
+    "holder": "Dr Kumbala Pradeep Reddy"
+  },
+  {
+    "code": "drkramamohanreddyNLSAAL0019",
+    "fields": [
+      "Dr. K. Ramamohan Reddy",
+      "from CVR College of Engineering"
+    ],
+    "holder": "Dr. K. Ramamohan Reddy"
+  },
+  {
+    "code": "vijayamairNLSAAL0020",
+    "fields": [
+      "Vijaya Mair",
+      "from CVR College of Engineering"
+    ],
+    "holder": "Vijaya Mair"
+  },
+  {
+    "code": "maheshkumarpNLSAAL0021",
+    "fields": [
+      "Mahesh Kumar P",
+      "from CVR College of Engineering "
+    ],
+    "holder": "Mahesh Kumar P"
+  },
+  {
+    "code": "drsramakrishnanNLSAAL0022",
+    "fields": [
+      "Dr. S. Ramakrishnan",
+      "from Dr.Mahalingam College of Engineering and Technology,Tamilnadu"
+    ],
+    "holder": "Dr. S. Ramakrishnan"
+  },
+  {
+    "code": "esaikiranreddyNLSAAL0023",
+    "fields": [
+      "E Saikiran Reddy",
+      "from Ellenki Group of Institutions"
+    ],
+    "holder": "E Saikiran Reddy"
+  },
+  {
+    "code": "drpramakrishnareddyNLSAAL0024",
+    "fields": [
+      "Dr. P.Ramakrishna Reddy ",
+      "from G.Narayanamma Institute of Technology & Science(for Women)"
+    ],
+    "holder": "Dr. P.Ramakrishna Reddy "
+  },
+  {
+    "code": "droobulesuNLSAAL0025",
+    "fields": [
+      "Dr. O. Obulesu",
+      "from G.Narayanamma Institute of Technology & Science(for Women)"
+    ],
+    "holder": "Dr. O. Obulesu"
+  },
+  {
+    "code": "drkramalingareddyNLSAAL0026",
+    "fields": [
+      "Dr K Rama Linga Reddy",
+      "from G.Narayanamma Institute of Technology & Science(for Women)"
+    ],
+    "holder": "Dr K Rama Linga Reddy"
+  },
+  {
+    "code": "driraviprakashreddyNLSAAL0027",
+    "fields": [
+      "Dr I Ravi Prakash Reddy ",
+      "from G.Narayanamma Institute of Technology & Science(for Women)"
+    ],
+    "holder": "Dr I Ravi Prakash Reddy "
+  },
+  {
+    "code": "drkraginiNLSAAL0028",
+    "fields": [
+      "Dr. K. Ragini",
+      "from G.Narayanamma Institute of Technology & Science(for Women)"
+    ],
+    "holder": "Dr. K. Ragini"
+  },
+  {
+    "code": "drrmeenakshireddyNLSAAL0029",
+    "fields": [
+      "Dr. R .Meenakshi Reddy",
+      "from G.Pulla Reddy Engineering College"
+    ],
+    "holder": "Dr. R .Meenakshi Reddy"
+  },
+  {
+    "code": "csreedharNLSAAL0030",
+    "fields": [
+      "C. Sreedhar",
+      "from G.Pulla Reddy Engineering College(Autonomous), Kurnool"
+    ],
+    "holder": "C. Sreedhar"
+  },
+  {
+    "code": "drksureshreddyNLSAAL0031",
+    "fields": [
+      "Dr.K.Suresh Reddy",
+      "from G.Pulla Reddy Engineering College(Autonomous), Kurnool"
+    ],
+    "holder": "Dr.K.Suresh Reddy"
+  },
+  {
+    "code": "gkishorNLSAAL0032",
+    "fields": [
+      "G.Kishor",
+      "from G.Pulla Reddy Engineering College(Autonomous);Kurnool"
+    ],
+    "holder": "G.Kishor"
+  },
+  {
+    "code": "drvvpraveenkumarNLSAAL0033",
+    "fields": [
+      "Dr. V. V. Praveen Kumar",
+      "from Geethanjali College of Engineering and Technology"
+    ],
+    "holder": "Dr. V. V. Praveen Kumar"
+  },
+  {
+    "code": "drrikkasudarshanNLSAAL0034",
+    "fields": [
+      "Dr. Rikka Sudarshan ",
+      "from Geethanjali College of Engineering and Technology "
+    ],
+    "holder": "Dr. Rikka Sudarshan "
+  },
+  {
+    "code": "drbsankarababuNLSAAL0035",
+    "fields": [
+      "Dr. B Sankara Babu",
+      "from Gokaraju Rangaraju Institute of Engineering and Technology"
+    ],
+    "holder": "Dr. B Sankara Babu"
+  },
+  {
+    "code": "drgcharlesbabuNLSAAL0036",
+    "fields": [
+      "Dr. G.Charles Babu",
+      "from Gokaraju Rangaraju Institute of Engineering and Technology "
+    ],
+    "holder": "Dr. G.Charles Babu"
+  },
+  {
+    "code": "dryramakrishnaprasadNLSAAL0037",
+    "fields": [
+      "Dr Y Rama Krishna Prasad",
+      "from Gokaraju Rangaraju Institute of Engineering and Technology "
+    ],
+    "holder": "Dr Y Rama Krishna Prasad"
+  },
+  {
+    "code": "profpgopalakrishnaNLSAAL0038",
+    "fields": [
+      "Prof P Gopala Krishna",
+      "from Gokaraju Rangaraju Institute of Engineering and Technology "
+    ],
+    "holder": "Prof P Gopala Krishna"
+  },
+  {
+    "code": "drsanthoshkumarbalanNLSAAL0039",
+    "fields": [
+      "Dr Santhosh Kumar Balan",
+      "from Guru Nanak Institute of Technology"
+    ],
+    "holder": "Dr Santhosh Kumar Balan"
+  },
+  {
+    "code": "drsmsubashNLSAAL0040",
+    "fields": [
+      "Dr. S. M. Subash",
+      "from Guru Nanak Institute of Technology"
+    ],
+    "holder": "Dr. S. M. Subash"
+  },
+  {
+    "code": "drmalladiramakanthreddyNLSAAL0041",
+    "fields": [
+      "Dr. Malladi Ramakanth Reddy",
+      "from Heartfulness Academy of Research and Innovation (Deemed To Be University)"
+    ],
+    "holder": "Dr. Malladi Ramakanth Reddy"
+  },
+  {
+    "code": "drnarsireddymalgireddyNLSAAL0042",
+    "fields": [
+      "Dr Narsi Reddy Malgireddy ",
+      "from Heartfulness Academy of Research and Innovation (Deemed To Be University)"
+    ],
+    "holder": "Dr Narsi Reddy Malgireddy "
+  },
+  {
+    "code": "drravikumarnvsNLSAAL0043",
+    "fields": [
+      "Dr. Ravi Kumar Nvs",
+      "from Hindi Mahavidyalaya"
+    ],
+    "holder": "Dr. Ravi Kumar Nvs"
+  },
+  {
+    "code": "derameshponnalaNLSAAL0044",
+    "fields": [
+      "De. Ramesh Ponnala",
+      "from ICFAI Foundation for Higher Education Hyderabad"
+    ],
+    "holder": "De. Ramesh Ponnala"
+  },
+  {
+    "code": "cnvbrsrigowrinathNLSAAL0045",
+    "fields": [
+      "C N V B R Sri Gowrinath",
+      "from Infosys Limited"
+    ],
+    "holder": "C N V B R Sri Gowrinath"
+  },
+  {
+    "code": "drpgovardhanNLSAAL0046",
+    "fields": [
+      "Dr.P.Govardhan",
+      "from Institute of Aeronautical Engineering, Hyderabad."
+    ],
+    "holder": "Dr.P.Govardhan"
+  },
+  {
+    "code": "drmpalaprasadreddyNLSAAL0047",
+    "fields": [
+      "Dr. M Pala Prasad Reddy",
+      "from Institute of Aeronautical Engineering, Hyderabad."
+    ],
+    "holder": "Dr. M Pala Prasad Reddy"
+  },
+  {
+    "code": "drypandurangaiahNLSAAL0048",
+    "fields": [
+      "Dr. Y. Pandurangaiah",
+      "from Institute of Aeronautical Engineering, Hyderabad."
+    ],
+    "holder": "Dr. Y. Pandurangaiah"
+  },
+  {
+    "code": "drgchandrasekharNLSAAL0049",
+    "fields": [
+      "Dr G Chandra Sekhar",
+      "from Institute of Aeronautical Engineering, Hyderabad."
+    ],
+    "holder": "Dr G Chandra Sekhar"
+  },
+  {
+    "code": "drbabdulraheemNLSAAL0050",
+    "fields": [
+      "Dr B Abdul Raheem",
+      "from Joginpally B. R. Engineering College"
+    ],
+    "holder": "Dr B Abdul Raheem"
+  },
+  {
+    "code": "drpsvsrinivasaraoNLSAAL0051",
+    "fields": [
+      "Dr P S V Srinivasa Rao ",
+      "from Joginpally B. R. Engineering College"
+    ],
+    "holder": "Dr P S V Srinivasa Rao "
+  },
+  {
+    "code": "drvenkateswarareddylakkireddyNLSAAL0052",
+    "fields": [
+      "Dr Venkateswara Reddy Lakkireddy",
+      "from Joginpally B. R. Engineering College"
+    ],
+    "holder": "Dr Venkateswara Reddy Lakkireddy"
+  },
+  {
+    "code": "thangamanikNLSAAL0053",
+    "fields": [
+      "Thangamani K",
+      "from KG Reddy College of Engineering and Technology"
+    ],
+    "holder": "Thangamani K"
+  },
+  {
+    "code": "drtvvpavankumarNLSAAL0054",
+    "fields": [
+      "Dr T V V Pavan Kumar",
+      "from KG Reddy College of Engineering and Technology"
+    ],
+    "holder": "Dr T V V Pavan Kumar"
+  },
+  {
+    "code": "kumashankarNLSAAL0055",
+    "fields": [
+      "K Uma Shankar",
+      "from KG Reddy College of Engineering and Technology"
+    ],
+    "holder": "K Uma Shankar"
+  },
+  {
+    "code": "dryamarbabuNLSAAL0056",
+    "fields": [
+      "Dr Y Amar Babu ",
+      "from Lakireddy Bali Reddy College of Engineering"
+    ],
+    "holder": "Dr Y Amar Babu "
+  },
+  {
+    "code": "drsyedazampashaquadriNLSAAL0057",
+    "fields": [
+      "Dr. Syed Azam Pasha Quadri",
+      "from Lords Institute of Engineering & Technology"
+    ],
+    "holder": "Dr. Syed Azam Pasha Quadri"
+  },
+  {
+    "code": "drknagireddyNLSAAL0058",
+    "fields": [
+      "Dr. K Nagi Reddy",
+      "from Lords Institute of Engineering & Technology"
+    ],
+    "holder": "Dr. K Nagi Reddy"
+  },
+  {
+    "code": "drnmariadasphdNLSAAL0059",
+    "fields": [
+      "Dr N Maria Das Ph.D",
+      "from Loyola Academy Degree & PG College"
+    ],
+    "holder": "Dr N Maria Das Ph.D"
+  },
+  {
+    "code": "drsrajireddyNLSAAL0060",
+    "fields": [
+      "Dr S .Raji Reddy",
+      "from Mahatma Gandhi Institute of Technology"
+    ],
+    "holder": "Dr S .Raji Reddy"
+  },
+  {
+    "code": "drsmadhavareddyNLSAAL0061",
+    "fields": [
+      "Dr S.Madhava Reddy",
+      "from Mahatma Gandhi Institute of Technology"
+    ],
+    "holder": "Dr S.Madhava Reddy"
+  },
+  {
+    "code": "profgchandramohanreddyNLSAAL0062",
+    "fields": [
+      "Prof G Chandramohan Reddy ",
+      "from Mahatma Gandhi Institute of Technology"
+    ],
+    "holder": "Prof G Chandramohan Reddy "
+  },
+  {
+    "code": "drchsrinivasuNLSAAL0063",
+    "fields": [
+      "Dr. Ch. Srinivasu",
+      "from Mahatma Gandhi Institute of Technology"
+    ],
+    "holder": "Dr. Ch. Srinivasu"
+  },
+  {
+    "code": "dsubhashiniNLSAAL0064",
+    "fields": [
+      "D.Subhashini",
+      "from Mahatma Gandhi Institute of Technology"
+    ],
+    "holder": "D.Subhashini"
+  },
+  {
+    "code": "drvsenthilkumaranNLSAAL0065",
+    "fields": [
+      "Dr.V.Senthil Kumaran",
+      "from Mahendra Engineering College(Autonomous), Tamilnadu"
+    ],
+    "holder": "Dr.V.Senthil Kumaran"
+  },
+  {
+    "code": "drruthirasamyNLSAAL0066",
+    "fields": [
+      "Dr. R. Uthirasamy",
+      "from Mahendra Engineering College, Namakkal"
+    ],
+    "holder": "Dr. R. Uthirasamy"
+  },
+  {
+    "code": "chariprasadNLSAAL0067",
+    "fields": [
+      "C Hari Prasad",
+      "from Mahindra University"
+    ],
+    "holder": "C Hari Prasad"
+  },
+  {
+    "code": "pradhakrishnaprasadNLSAAL0068",
+    "fields": [
+      "P Radha Krishna Prasad",
+      "from Malla Reddy Deemed To Be University"
+    ],
+    "holder": "P Radha Krishna Prasad"
+  },
+  {
+    "code": "drbandavarijaNLSAAL0069",
+    "fields": [
+      "Dr. Banda Varija",
+      "from Marri Laxman Reddy Institute of Technology "
+    ],
+    "holder": "Dr. Banda Varija"
+  },
+  {
+    "code": "skhimabindhuNLSAAL0070",
+    "fields": [
+      "S. K. Hima Bindhu",
+      "from Marri Laxman Reddy Institute of Technology and Management"
+    ],
+    "holder": "S. K. Hima Bindhu"
+  },
+  {
+    "code": "chvkrishnamohanNLSAAL0071",
+    "fields": [
+      "Ch.V Krishna Mohan",
+      "from Marri Laxman Reddy Institute of Technology and Management"
+    ],
+    "holder": "Ch.V Krishna Mohan"
+  },
+  {
+    "code": "drisharathchandraNLSAAL0072",
+    "fields": [
+      "Dr. I. Sharath Chandra",
+      "from Matrusri Engineering College "
+    ],
+    "holder": "Dr. I. Sharath Chandra"
+  },
+  {
+    "code": "drmrameshNLSAAL0073",
+    "fields": [
+      "Dr M Ramesh ",
+      "from Matrusri Engineering College "
+    ],
+    "holder": "Dr M Ramesh "
+  },
+  {
+    "code": "profprabhugbenakopNLSAAL0074",
+    "fields": [
+      "Prof. Prabhu G Benakop ",
+      "from Methodist College of Engineering and Technology "
+    ],
+    "holder": "Prof. Prabhu G Benakop "
+  },
+  {
+    "code": "drashokkumarsinghNLSAAL0075",
+    "fields": [
+      "Dr. Ashok Kumar Singh",
+      "from Mahatma Gandhi Institute of Technology"
+    ],
+    "holder": "Dr. Ashok Kumar Singh"
+  },
+  {
+    "code": "drsivakrishnaNLSAAL0076",
+    "fields": [
+      "Dr Sivakrishna ",
+      "from MLR Institute of Technology "
+    ],
+    "holder": "Dr Sivakrishna "
+  },
+  {
+    "code": "drpeyyalapramodkumarNLSAAL0077",
+    "fields": [
+      "Dr. Peyyala Pramod Kumar",
+      "from MLR Institutte of Technology"
+    ],
+    "holder": "Dr. Peyyala Pramod Kumar"
+  },
+  {
+    "code": "drgsreenivasuluNLSAAL0078",
+    "fields": [
+      "Dr. G. Sreenivasulu",
+      "from Mother Theressa College of Engineeringand Technology,Hyderabad"
+    ],
+    "holder": "Dr. G. Sreenivasulu"
+  },
+  {
+    "code": "jprasannakumarNLSAAL0079",
+    "fields": [
+      "J Prasanna Kumar ",
+      "from MVSR Engineering College "
+    ],
+    "holder": "J Prasanna Kumar "
+  },
+  {
+    "code": "drbhabanishankardasNLSAAL0080",
+    "fields": [
+      "Dr. Bhabani Shankar Das",
+      "from NIT Patna"
+    ],
+    "holder": "Dr. Bhabani Shankar Das"
+  },
+  {
+    "code": "drmedepallidavidrajuNLSAAL0081",
+    "fields": [
+      "Dr Medepalli David Raju",
+      "from Parvathameni Brahmaiah Siddhartha College of Arts & Science"
+    ],
+    "holder": "Dr Medepalli David Raju"
+  },
+  {
+    "code": "aggalachiranjeeviNLSAAL0082",
+    "fields": [
+      "Aggala Chiranjeevi",
+      "from Ramachandra College of Engineering Autonomous, Eluru"
+    ],
+    "holder": "Aggala Chiranjeevi"
+  },
+  {
+    "code": "drjarabalarangaNLSAAL0083",
+    "fields": [
+      "Dr Jarabala Ranga",
+      "from Ramachandra College of Engineering Autonomous, Eluru"
+    ],
+    "holder": "Dr Jarabala Ranga"
+  },
+  {
+    "code": "perumallajanakiramuluNLSAAL0084",
+    "fields": [
+      "Perumalla Janaki Ramulu",
+      "from Samskruti College of Engineering and Technology"
+    ],
+    "holder": "Perumalla Janaki Ramulu"
+  },
+  {
+    "code": "drkondashravankumarNLSAAL0085",
+    "fields": [
+      "Dr Konda Shravan Kumar ",
+      "from Samskruti College of Pharmacy"
+    ],
+    "holder": "Dr Konda Shravan Kumar "
+  },
+  {
+    "code": "drsandeepyellisettiNLSAAL0086",
+    "fields": [
+      "Dr. Sandeep Yellisetti",
+      "from Siddhartha Academy of Higher Education (Deemed To Be University)"
+    ],
+    "holder": "Dr. Sandeep Yellisetti"
+  },
+  {
+    "code": "drksitakumariNLSAAL0087",
+    "fields": [
+      "Dr. K. Sita Kumari",
+      "from Siddhartha Academy of Higher Education (Deemed To Be University)"
+    ],
+    "holder": "Dr. K. Sita Kumari"
+  },
+  {
+    "code": "drssuhasiniNLSAAL0088",
+    "fields": [
+      "Dr S Suhasini",
+      "from Siddhartha Academy of Higher Education (Deemed To Be University)"
+    ],
+    "holder": "Dr S Suhasini"
+  },
+  {
+    "code": "pvksandeepNLSAAL0089",
+    "fields": [
+      "P. V. K. Sandeep",
+      "from Sreenidhi Institute of Science and Technology"
+    ],
+    "holder": "P. V. K. Sandeep"
+  },
+  {
+    "code": "drnvenkatachalapathiNLSAAL0090",
+    "fields": [
+      "Dr N Venkatachalapathi ",
+      "from Sreenivasa Institute of Technology and Management Studies Autonomous, Chittoor "
+    ],
+    "holder": "Dr N Venkatachalapathi "
+  },
+  {
+    "code": "drdsrinivasreddyNLSAAL0091",
+    "fields": [
+      "Dr. D. Srinivas Reddy",
+      "from Sreyas Institute of Engineering and Technology (Autonomous)"
+    ],
+    "holder": "Dr. D. Srinivas Reddy"
+  },
+  {
+    "code": "drsreenivasubhukyaNLSAAL0092",
+    "fields": [
+      "Dr. Sreenivasu Bhukya",
+      "from Sreyas Institute of Engineering and Technology (Autonomous)"
+    ],
+    "holder": "Dr. Sreenivasu Bhukya"
+  },
+  {
+    "code": "cudayakiranNLSAAL0093",
+    "fields": [
+      "C Udaya Kiran",
+      "from Sreyas Institute of Engineering and Technology (Autonomous)"
+    ],
+    "holder": "C Udaya Kiran"
+  },
+  {
+    "code": "drrmadanamohanaNLSAAL0094",
+    "fields": [
+      "Dr R Madana Mohana",
+      "from Stanley College of Engineering and Technology for Women"
+    ],
+    "holder": "Dr R Madana Mohana"
+  },
+  {
+    "code": "ramaraokarnenaNLSAAL0095",
+    "fields": [
+      "Ramarao Karnena",
+      "from TCS"
+    ],
+    "holder": "Ramarao Karnena"
+  },
+  {
+    "code": "drnganesanNLSAAL0096",
+    "fields": [
+      "Dr. N. Ganesan",
+      "from Texcity College"
+    ],
+    "holder": "Dr. N. Ganesan"
+  },
+  {
+    "code": "drjvaraprasadreddyNLSAAL0097",
+    "fields": [
+      "Dr J Varaprasad Reddy",
+      "from TKR Institute of Management and Science"
+    ],
+    "holder": "Dr J Varaprasad Reddy"
+  },
+  {
+    "code": "drdevarajuvenkataraoNLSAAL0098",
+    "fields": [
+      "Dr. Devaraju Venkata Rao",
+      "from Vaniniketan Institute of Management Studies"
+    ],
+    "holder": "Dr. Devaraju Venkata Rao"
+  },
+  {
+    "code": "drrameshkarnatiNLSAAL0099",
+    "fields": [
+      "Dr. Ramesh Karnati",
+      "from Vardhaman College of Engineering"
+    ],
+    "holder": "Dr. Ramesh Karnati"
+  },
+  {
+    "code": "drpadminicheerlaNLSAAL0100",
+    "fields": [
+      "Dr. Padmini Cheerla",
+      "from Vardhaman College of Engineering"
+    ],
+    "holder": "Dr. Padmini Cheerla"
+  },
+  {
+    "code": "drerarunaNLSAAL0101",
+    "fields": [
+      "Dr E R Aruna",
+      "from Vardhaman College of Engineering"
+    ],
+    "holder": "Dr E R Aruna"
+  },
+  {
+    "code": "drjkrishnachaitanyaNLSAAL0102",
+    "fields": [
+      "Dr. J. Krishna Chaitanya",
+      "from Vardhaman College of Engineering"
+    ],
+    "holder": "Dr. J. Krishna Chaitanya"
+  },
+  {
+    "code": "profsrajendarNLSAAL0103",
+    "fields": [
+      "Prof. S. Rajendar",
+      "from Vardhaman College of Engineering"
+    ],
+    "holder": "Prof. S. Rajendar"
+  },
+  {
+    "code": "drknikhilaNLSAAL0104",
+    "fields": [
+      "Dr. K. Nikhila",
+      "from Vardhaman College of Engineering "
+    ],
+    "holder": "Dr. K. Nikhila"
+  },
+  {
+    "code": "drgvenkataramireddyNLSAAL0105",
+    "fields": [
+      "Dr.G.Venkata Rami Reddy ",
+      "from Vardhaman College of Engineering "
+    ],
+    "holder": "Dr.G.Venkata Rami Reddy "
+  },
+  {
+    "code": "drnphanikumarNLSAAL0106",
+    "fields": [
+      "Dr. N.Phani Kumar",
+      "from Vasavi College of Engineering"
+    ],
+    "holder": "Dr. N.Phani Kumar"
+  },
+  {
+    "code": "drgramadevuduNLSAAL0107",
+    "fields": [
+      "Dr. G. Ramadevudu",
+      "from Vasavi College of Engineering"
+    ],
+    "holder": "Dr. G. Ramadevudu"
+  },
+  {
+    "code": "drgramadevuduNLSAAL0108",
+    "fields": [
+      "Dr. G. Ramadevudu",
+      "from Vasavi College of Engineering"
+    ],
+    "holder": "Dr. G. Ramadevudu"
+  },
+  {
+    "code": "drnandanavanamphanikumarNLSAAL0109",
+    "fields": [
+      "Dr.Nandanavanam Phani Kumar",
+      "from Vasavi College of Engineering"
+    ],
+    "holder": "Dr.Nandanavanam Phani Kumar"
+  },
+  {
+    "code": "drgsreeramredddyNLSAAL0110",
+    "fields": [
+      "Dr G Sreeram Redddy",
+      "from Vidya Jyothi Institute of Technology, Hyderabad"
+    ],
+    "holder": "Dr G Sreeram Redddy"
+  },
+  {
+    "code": "drpnageswararaoNLSAAL0111",
+    "fields": [
+      "Dr P Nageswara Rao",
+      "from Vidya Jyothi Institute of Technology, Hyderabad"
+    ],
+    "holder": "Dr P Nageswara Rao"
+  },
+  {
+    "code": "drlmadananandakumarNLSAAL0112",
+    "fields": [
+      "Dr. L.Madan Ananda Kumar",
+      "from Vidya Jyothi Institute of Technology, Hyderabad"
+    ],
+    "holder": "Dr. L.Madan Ananda Kumar"
+  },
+  {
+    "code": "drpchakradharNLSAAL0113",
+    "fields": [
+      "Dr. P. Chakradhar",
+      "from Vidya Jyothi Institute of Technology, Hyderabad"
+    ],
+    "holder": "Dr. P. Chakradhar"
+  },
+  {
+    "code": "mrschaitanyaNLSAAL0114",
+    "fields": [
+      "Mrs. Chaitanya",
+      "from Vidya Jyothi Institute of Technology, Hyderabad"
+    ],
+    "holder": "Mrs. Chaitanya"
+  },
+  {
+    "code": "drnsudharsanNLSAAL0115",
+    "fields": [
+      "Dr. N. Sudharsan",
+      "from Vidya Jyothi Institute of Technology, Hyderabad"
+    ],
+    "holder": "Dr. N. Sudharsan"
+  },
+  {
+    "code": "anilkumargNLSAAL0116",
+    "fields": [
+      "Anil Kumar G",
+      "from Vignana Bharathi Institute of Technology (Autonomous)"
+    ],
+    "holder": "Anil Kumar G"
+  },
+  {
+    "code": "drsomanchiharikrishnaNLSAAL0117",
+    "fields": [
+      "Dr Somanchi Hari Krishna",
+      "from Vignana Bharathi Institute of Technology (Autonomous)"
+    ],
+    "holder": "Dr Somanchi Hari Krishna"
+  },
+  {
+    "code": "kollanareshkumarNLSAAL0118",
+    "fields": [
+      "Kolla Naresh Kumar",
+      "from Vignana Bharathi Institute of Technology (Autonomous)"
+    ],
+    "holder": "Kolla Naresh Kumar"
+  },
+  {
+    "code": "klsrikanthNLSAAL0119",
+    "fields": [
+      "K. L. Srikanth",
+      "from Vishwa Vishwani Institute of Systems and Management"
+    ],
+    "holder": "K. L. Srikanth"
+  },
+  {
+    "code": "drmrssuryanarayanareddyNLSAAL0120",
+    "fields": [
+      "Dr M R S Suryanarayana Reddy",
+      "from Vishwa Vishwani Institute of Systems and Management"
+    ],
+    "holder": "Dr M R S Suryanarayana Reddy"
+  },
+  {
+    "code": "bvrravikumarNLSAAL0121",
+    "fields": [
+      "B V R Ravikumar",
+      "from VNR Vignana Jyothi Institute of Engineering and Technology"
+    ],
+    "holder": "B V R Ravikumar"
+  },
+  {
+    "code": "drgrameshchandraNLSAAL0122",
+    "fields": [
+      "Dr. G. Ramesh Chandra",
+      "from VNR Vignana Jyothi Institute of Engineering and Technology"
+    ],
+    "holder": "Dr. G. Ramesh Chandra"
+  },
+  {
+    "code": "drrajendraprasadsomineniNLSAAL0123",
+    "fields": [
+      "Dr. Rajendra Prasad Somineni",
+      "from VNR Vignana Jyothi Institute of Engineering and Technology"
+    ],
+    "holder": "Dr. Rajendra Prasad Somineni"
+  },
+  {
+    "code": "drkmadhusudanreddyNLSAAL0124",
+    "fields": [
+      "Dr. K. Madhusudan Reddy",
+      "from Anurag University"
+    ],
+    "holder": "Dr. K. Madhusudan Reddy"
+  }
+]
