@@ -12,18 +12,22 @@ fetch("data.json")
             const generalHeader = document.getElementById("general-header");
             generalHeader.classList.add("hidden");
 
-            const nameElement = document.getElementById("name-element");
-            nameElement.textContent = `${matchingEntry.holder}`;
-
             const headerNameElement = document.getElementById("header-name-element");
-            headerNameElement.textContent = `${matchingEntry.holder}`;
+            headerNameElement.textContent = matchingEntry.fields?.[0] || "";
 
             const certHeader = document.getElementById("cert-header");
             const certificate = document.getElementById("certificate");
 
-
             certHeader.classList.remove("hidden");
             certificate.classList.remove("hidden");
+
+            // populate all overlay text elements in the svg
+            const textEls = certificate.querySelectorAll(".certificate-text");
+            (matchingEntry.fields || []).forEach((val, idx) => {
+                if (textEls[idx]) {
+                    textEls[idx].textContent = val;
+                }
+            });
 
             const qrContainer = document.getElementById("qr-container");
 

@@ -1,22 +1,37 @@
 [
   {
     "code": "drprathimatirumalareddyCPPVACR0001",
-    "holder": "Dr Prathima Tirumalareddy, Dept. of IT "
+    "fields": [
+      "Dr Prathima Tirumalareddy, Dept. of IT"
+    ],
+    "holder": "Dr Prathima Tirumalareddy, Dept. of IT"
   },
   {
     "code": "drgsagarCPPVACR0002",
-    "holder": "Dr G Sagar, Dept. of IT "
+    "fields": [
+      "Dr G Sagar, Dept. of IT"
+    ],
+    "holder": "Dr G Sagar, Dept. of IT"
   },
   {
     "code": "mspkiranmaieCPPVACR0003",
-    "holder": "Ms P Kiranmaie, Dept. of IT "
+    "fields": [
+      "Ms P Kiranmaie, Dept. of IT"
+    ],
+    "holder": "Ms P Kiranmaie, Dept. of IT"
   },
   {
     "code": "naveenrajasmCPPVACR0004",
-    "holder": "Naveen Raja S.m, Dept. of AIDS "
+    "fields": [
+      "Naveen Raja S.M, Dept. of AIDS"
+    ],
+    "holder": "Naveen Raja S.M, Dept. of AIDS"
   },
   {
     "code": "drpulipatisrilathaCPPVACR0005",
-    "holder": "Dr. Pulipati Srilatha, Dept. of AIDS "
+    "fields": [
+      "Dr. Pulipati Srilatha, Dept. of AIDS"
+    ],
+    "holder": "Dr. Pulipati Srilatha, Dept. of AIDS"
   }
 ]
